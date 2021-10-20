@@ -1,0 +1,27 @@
+body {
+    min-width: 372px;
+    background-color: #000000;
+}
+
+.navbar {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#bastos {
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#img_footer {
+    height: 250px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+.vr {
+    color: white;
+    width: 2px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
